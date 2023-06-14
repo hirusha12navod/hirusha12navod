@@ -1,3 +1,4 @@
+![logo](https://github.com/hirusha12navod/hirusha12navod/blob/main/SOFTWARE%20COMPANY%20(3).png)
 <h1 align="center">Hi 👋, I'm Hirusha Navod</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
