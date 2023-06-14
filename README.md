@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hirusha-navod-701898275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirusha-navod-701898275" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hirusha.navod.3?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hirusha.navod.3?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/______n_a_v_o___h______?igshid=mjewn2iyywywyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/______n_a_v_o___h______?igshid=mjewn2iyywywyw==" height="30" width="40" /></a>
+<a href="https://fb.com/hirusha.navod.3?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirusha.navod.3?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://instagram.com/______n_a_v_o___h______?igshid=mjewn2iyywywyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______n_a_v_o___h______?igshid=mjewn2iyywywyw==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
